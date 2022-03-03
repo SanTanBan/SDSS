@@ -9,5 +9,6 @@ This is incorporated in the Distance Matrix itself (which is different for each 
 
 A sample input excel sheet is provided which has 5 distance matrices for the five vehicle types.
 
-The Worksheet "Calculating Random Distances" is used only for generating random road distances and should be ignored.
 The Distance matrices used to check the problem were generated in excel in the same format as may be manually obtained from QGIS.
+
+The Worksheet "Calculating Random Distances" is used only for generating random road distances and should be ignored.
