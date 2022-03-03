@@ -1,0 +1,4 @@
+0.16
+Stopped on Time == 700 seconds
+
+This Notepad was not generated automatically but typed...
