@@ -1,9 +1,0 @@
-Stopped on Time == 700 seconds
-The Images show the solution
-Relative Fractional Gap was 0.16
-Here 15 Nodes and 3 Vehicle Types were used as the initial input in Python Terminal after running the program in VSCode.
-
-This Notepad was not generated automatically but typed...
-
-It can be seen that the first layer is empty. Therefore the solver did not choose any vehicle of Type 1. The second layer shows 1 vehicle which was chosen from Type 2.
-Many vehicles were chosen from Vehicle Type 3 which may be senn in the last figure.
