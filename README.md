@@ -8,7 +8,9 @@ Allow the program to run as long as possible. After you terminate the program, y
 
 The more time the program is run, the more number of such folders will be created automatically for comparison.
 To change the Number of Nodes to be evaluated for the comparison; line Number 30 may be altered
-for num_of_Nodes in range(1,15):
+
+$$for num_of_Nodes in range(1,15):$$
+
 #Here 15 denotes the Number of Nodes which will be considered for both the Formiulation Types. Since in Python range(), upto first 14 Nodes will be considered
 for num_of_Nodes in range(10,14): #This will generate the Comparison Output for Nodes 10 to 13 alongwith the table and Images
 
