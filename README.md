@@ -7,3 +7,6 @@ Please create a "New Folder" and keep the "Comparison.py" Python Program File an
 Allow the program to run as long as possible. After you terminate the program, you will see the "Comparison Table" in the "New Folder" as well as a new Images Folder is created where the images are captioned accordingly. The "Images" Folder will have multiple folders numbered according to the number of Nodes used.
 
 The more time the program is run, the more number of such folders will be created automatically for comparison.
+
+For this Comparison the same netowrk is used for all the different vehicle types, i.e. all the Vehicle_Types (which contain 1 Vehicle as per the data from the Paper) is using the same network with Euclidean Distances.
+This may be changed in the Program by changing the Input which is commented out presently.
